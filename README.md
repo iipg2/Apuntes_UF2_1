@@ -63,3 +63,25 @@
 **TDD (Desarrollo guiado por pruebas de software, o Test-Driven Development)**
 + Escribir las pruebas primero (Test First Development).
 + Refactorización (Refactoring).
+
+**Integración**
+
+**Formas de integración**
++ Integración Big bang.
++ Integración Descendente.
++ Integración Ascendente.
++ Integración Continua (CI).
+
+**Servidores de integración continua**
++ Jenkins.
++ Bamboo.
++ TravisCI.
++ CircleCI.
+
+**Convertura del código**
++ Es una medida que indica el porcentaje de código que ha sido ejecutado durante las pruebas.
++ Es aconsejable que sea lo más cercano a 100%.
++ Si es del 100% entonces se ha ejecutado todo el código fuente durante las pruebas.
++ Si es menor del 100% entonces existe código fuente que no se ha ejecutado durante las pruebas.
++ Es posible realizar la cobertura tanto desde el IDE como desde un servicio web apropiado.
+
