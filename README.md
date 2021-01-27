@@ -85,3 +85,26 @@
 + Si es menor del 100% entonces existe código fuente que no se ha ejecutado durante las pruebas.
 + Es posible realizar la cobertura tanto desde el IDE como desde un servicio web apropiado.
 
+**Calidad**
+
+**Control de calidad**
+Para lograr una medición de la calidad de un producto, necesitamos realizar pruebas.
++ **QA:** Es un conjunto de actividades para garantizar la calidad en los procesos mediante los cuales se desarrollan los productos.
++ **QC:*** Es un conjunto de actividades para garantizar la calidad de los productos. Las actividades se centran en identificar defectos en los productos reales producidos.
+
+
+**Factores de calidad**
++ **Operación del producto**
+    + Corrección.
+    + Fiabilidad.
+    + Eficiencia.
+    + Seguridad.
+    + Facilidad de uso.
++ **Revisión del producto**
+    + Mantenibilidad.
+    + Flexibilidad.
+    + Facilidad de prueba.
++ **Transición del producto**
+    + Portabilidad.
+    + Reusabilidad.
+    + Interoperatividad.
